@@ -12,8 +12,10 @@ Please feel free to feel reach out to me via [email](mailto:richard.villagomez@b
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning Applications:** Applying machine learning techniques to diverse domains such as sustainable development, social impact, and community health.
+- **Data-driven Solutions:** Developing data-driven solutions for addressing societal challenges and improving decision-making processes.
+- **Data Disaggregation:** Advocating for improved data representation to better understand and address diversity within AAPI communities globally.
+- **Policy and Advocacy:** Contributing to policy discussions and initiatives aimed at promoting data inclusivity and equitable access to technology.
 
 ## News
 
