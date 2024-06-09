@@ -9,12 +9,15 @@ main:
   #- title: "Talks"
   #  url: ./#invited-talks
 
-  - title: "Teaching"
-    url: ./#teaching
+  - title: "Projects"
+    url: ./#projects
     right: true
 
   - title: "Research"
     url: ./#research-interests
+
+  - title: "Teaching"
+    url: ./#teaching
 
   #- title: "News"
   #  url: ./#news

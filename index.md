@@ -2,22 +2,13 @@
 layout: homepage
 ---
 
-## About Me
+## About
 
 Hi! I’m Richard, a junior from the [Northern Mariana Islands](https://www.britannica.com/place/Northern-Mariana-Islands) studying Data Science and Computer Science at the [University of California, Berkeley](https://www.berkeley.edu/). My passion lies in integrating data science and machine learning, software engineering, and user-experience design into impactful solutions. As a Pacific Islander in these fields, I aim to lead data-driven projects focused on sustainable development and social impact here and across the Pacific, while advocating for [data disaggregation](https://aapidata.com/tag/disaggregation/) to better represent the diversity within AAPI communities globally.
 
 Beyond my academics and research, I am dedicated to finding innovative ways to make data science education accessible to everyone. As a UGSI for [Data 8, "Foundations of Data Science,"](https://www.data8.org/sp24/) I lead weekly discussions for around 30 students, hold office hours for over 350 students, and guide labs to ensure understanding of Python and Jupyter Notebook. Additionally, I hold multiple roles within the [Berkeley-Tuskegee Data Science Initiative](https://cdss.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership), aiming to extend data science education to students from Tuskegee University. For further details on my teaching experience, please visit the [teaching](https://richardvillagomez.github.io/teaching/) section.
 
 Please feel free to feel reach out to me via [email](mailto:richard.villagomez@berkeley.edu) or [LinkedIn](https://www.linkedin.com/in/richard-villagomez/)!
-
----
-
-## Research Interests
-
-- **Machine Learning Applications:** Applying machine learning techniques to diverse domains such as sustainable development, social impact, and community health.
-- **Data-driven Solutions:** Developing data-driven solutions for addressing societal challenges and improving decision-making processes.
-- **Data Disaggregation:** Advocating for improved data representation to better understand and address diversity within AAPI communities globally.
-- **Policy and Advocacy:** Contributing to policy discussions and initiatives aimed at promoting data inclusivity and equitable access to technology.
 
 ---
 
@@ -68,6 +59,17 @@ _View my students' instructor evaluations [here](https://drive.google.com/file/d
 _Course materials are available [here](http://www.data8.org/fa23/)._
 
 ---
+
+## Research Interests
+
+- **Machine Learning Applications:** Applying machine learning techniques to diverse domains such as sustainable development, social impact, and community health.
+- **Data-driven Solutions:** Developing data-driven solutions for addressing societal challenges and improving decision-making processes.
+- **Data Disaggregation:** Advocating for improved data representation to better understand and address diversity within AAPI communities globally.
+- **Policy and Advocacy:** Contributing to policy discussions and initiatives aimed at promoting data inclusivity and equitable access to technology.
+
+---
+
+{% include_relative _includes/publications.md %}
 
 <!---
 ## News
