@@ -350,7 +350,7 @@ img {
 }
 
 header {
-  width: 235px; /* increased from 232px */
+  width: 300px; /* increased from 235px */
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -365,7 +365,7 @@ header ul {
   background: #f4f4f4;
   border-radius: 5px;
   border: 1px solid #e0e0e0;
-  width: 275px; /* increased from 270px */
+  width: 300px; /* increased from 275px */
 }
 
 header li {
@@ -424,7 +424,7 @@ header ul a strong {
 }
 
 section {
-  width: 655px; /* increased from 650px */
+  width: 620px; /* decreased from 655px */
   float: right;
   padding-top: 4.1em; /* increased from 4em */
   padding-bottom: 50px;
@@ -442,7 +442,7 @@ hr {
 }
 
 footer {
-  width: 235px; /* increased from 232px */
+  width: 300px; /* increased from 235px */
   float: left;
   position: fixed;
   bottom: 30px;
