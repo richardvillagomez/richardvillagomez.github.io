@@ -18,7 +18,7 @@
 
 @media (prefers-color-scheme: dark) {
   .social-icons a {
-    color: #3eb7f0 !important;
+    color: #043361 !important; //edit
   }
 }
 
@@ -156,12 +156,12 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #20212b;
-    color: #dadbdf;
+    background-color: #f8f8f8; /* edit from dark mode */
+    color: black; //edit
   }
 
   autocolor {
-    color: #dadbdf;
+    color: black; //edit??
   }
 
   lightonly {
@@ -243,11 +243,11 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color: rgb(62, 183, 240);
+    color: #043361; /* edit from dark mode */
   }
 
   h2 {
-    color: rgb(62, 183, 240);
+    color: #043361; /* edit from dark mode */
   }
 }
 
@@ -274,7 +274,7 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
   a {
-    color: rgb(62, 183, 240);
+    color: #043361 /* edit from dark mode */
   }
 }
 
@@ -337,11 +337,11 @@ th {
 
 @media (prefers-color-scheme: dark) {
   th {
-    color: rgb(62, 183, 240);
+    color: #444//dark mode rgb(62, 183, 240);
   }
 
   dt {
-    color: rgb(62, 183, 240);
+    color: #444//dark mode rgb(62, 183, 240);
   }
 }
 
@@ -408,7 +408,7 @@ strong {
 
 @media (prefers-color-scheme: dark) {
   strong {
-    color: #eeeff0;
+    color: #222; //edit
   }
 }
 
