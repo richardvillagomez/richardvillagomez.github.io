@@ -4,7 +4,7 @@ main:
     conference_short: ML
     #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     conference: November 2023
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/spam-ham.png
@@ -15,7 +15,7 @@ main:
     conference_short: EDA
     #conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     conference: October 2023
-    #pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-cinf.mpg.de/mnemonics/
@@ -27,9 +27,9 @@ main:
     conference_short: Data Structures
     #conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     conference: March 2023
-    #pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: https://sp23.datastructur.es/materials/proj/proj2a/#acknowledgements
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
     image: ./assets/img/wordnet.png
@@ -39,7 +39,7 @@ main:
     conference_short: Data Analysis
     #conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     conference: February 2023
-    #pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
