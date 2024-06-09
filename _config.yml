@@ -1,7 +1,7 @@
 # Basic Information
 title: Richard Villagomez
 position: B.A. Data Science, B.A. Computer Science
-affiliation: UC Berkeley College of Computing, Data Science and Society
+affiliation: UC Berkeley Class of 2026
 email: richard.villagomez@berkeley.edu
 
 # Search Engine Optimization (SEO)
@@ -22,7 +22,7 @@ linkedin: https://www.linkedin.com/
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon_dark: ./assets/img/favicon.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

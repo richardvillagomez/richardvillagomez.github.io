@@ -2,7 +2,7 @@
 
 <div class="publications">
 <ol class="bibliography">
-PDFs will be available soon. 
+
 {% for link in site.data.publications.main %}
 
 <li>
