@@ -71,6 +71,40 @@ _Course materials are available [here](http://www.data8.org/fa23/)._
 
 {% include_relative _includes/publications.md %}
 
+---
+
+## Coursework
+
+### Major Courses
+
+- [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/)
+- [CS 61B: Data Structures](https://sp23.datastructur.es/)
+- [CS 61C: Machine Structures](https://inst.eecs.berkeley.edu/~cs61c/su24/) (in progress)
+- [CS 70: Discrete Mathematics and Probability Theory](https://www.eecs70.org/)
+- [CS 168: Introduction to the Internet](https://cs168.io/) (in progress)
+- [CS 170: Efficient Algorithms and Intractable Problems](https://cs170.org/)
+- [CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp24/)
+- [DATA 8: Foundations of Data Science](https://www.data8.org/sp23/)
+- [DATA 100: Principles and Techniques of Data Science](https://ds100.org/fa23/)
+- [DATA 101: Data Engineering](https://www.data101.org/) (in progress)
+- DATA 104: Human Contexts and Ethics of Data (in progress)
+- MATH 1B: Calculus
+- MATH 53: Multivariable Calculus
+- MATH 54: Linear Algebra and Differential Equations
+
+### Pedagogy Courses
+
+- CS 375: Teaching Techniques for Computer Science
+- DATA 198: Directed Group Studies for Advanced Undergraduates
+
+### Elective Courses
+
+- POLISCI 5: International Relations
+- AFRICAM 5A: African American Life and Culture in the United States
+- ESPM 50AC: Introduction to Culture and Natural Resource Management
+- COGSCI 127: Cognitive Neuroscience
+- NUSCTX 10: Introduction to Human Nutrition
+
 <!---
 ## News
 

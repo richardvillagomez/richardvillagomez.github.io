@@ -2,7 +2,7 @@
 
 <div class="publications">
 <ol class="bibliography">
-
+This section is under construction.
 {% for link in site.data.publications.main %}
 
 <li>
