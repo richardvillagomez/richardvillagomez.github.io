@@ -4,9 +4,9 @@ layout: homepage
 
 ## About
 
-Hi! I’m Richard, a junior from the [Northern Mariana Islands](https://www.britannica.com/place/Northern-Mariana-Islands) studying Computer Science and Data Science at [UC Berkeley](https://www.berkeley.edu/). My interests lie at the intersection of data analytics, software engineering, and user-experience design, with a focus on creating accessible, inclusive, and impactful technology. As a Pacific Islander in these fields, I aim to lead data-driven projects focused on sustainable development and social impact across the Pacific.
+Hi! I’m Richard, a junior from the [Northern Mariana Islands](https://www.britannica.com/place/Northern-Mariana-Islands) studying Computer Science and Data Science at [UC Berkeley](https://www.berkeley.edu/). My interests lie at the intersection of data analytics, software engineering, and user-experience design, with a focus on creating accessible, inclusive, and impactful technology. As a Pacific Islander in these fields, I aim to lead data-driven projects focused on sustainable development and social impact across the Pacific. Currently, I work as a Research Assistant at [Berkeley Geography](https://geography.berkeley.edu/home), working on building software to make geospatial data on the Pacific Islands more accessible.
 
-Beyond my academics and research, I am dedicated to finding ways to make computing and data science education more accessible. As an Undergraduate Student Instructor for [Data 8, "Foundations of Data Science,"](https://www.data8.org/sp25/) I lead weekly discussions for around 30 students, hold office hours for over 350 students, and guide labs to ensure understanding of Python and Jupyter Notebook. For further details on my teaching experience, please visit the [teaching](https://richardvillagomez.github.io/#teaching) section.
+Beyond my academics and research, I am dedicated to finding ways to make computing and data science education more inclusive. As an Undergraduate Student Instructor for [Data 8, "Foundations of Data Science,"](https://www.data8.org/sp25/) I lead weekly discussions for around 30 students, hold office hours for over 350 students, and guide labs to ensure understanding of Python and Jupyter Notebook. For further details on my teaching experience, please visit the [teaching](https://richardvillagomez.github.io/#teaching) section.
 
 Please feel free to feel reach out to me via [email](mailto:richard.villagomez@berkeley.edu) or [LinkedIn](https://www.linkedin.com/in/richard-villagomez/)!
 
@@ -47,7 +47,6 @@ _Course materials are available [here]("https://data6.org/su24-tuskegee/bootcamp
 - Consuted with lead instructors to practice effective pedagogy and refine course materials on a weekly basis.
 
 _Course materials are available [here](http://www.data8.org/sp23/)._ <br>
-_View my students' instructor evaluations [here](https://drive.google.com/file/d/1_u7IRPh0OsoCc_6Yk-OMfJHnT8lYQ0oP/view?usp=sharing)._
 
 ### Academic Intern for Data 8, "Foundations of Data Science" (Fall 2023)
 
@@ -76,13 +75,16 @@ _Course materials are available [here](http://www.data8.org/fa23/)._
 
 - [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/)
 - [CS 61B: Data Structures](https://sp23.datastructur.es/)
+- [CS 61C: Machine Structures](https://cs61c.org) (in progress)
 - [CS 70: Discrete Mathematics and Probability Theory](https://www.eecs70.org/)
 - [CS 170: Efficient Algorithms and Intractable Problems](https://cs170.org/)
+- [CS 184: Computer Graphics]([https://cs184.eecs.berkeley.edu/sp25/]) (in progress)
 - [CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp24/)
 - [DATA 8: Foundations of Data Science](https://www.data8.org/sp23/)
 - [DATA 100: Principles and Techniques of Data Science](https://ds100.org/fa23/)
-- [DATA 101: Data Engineering](https://www.data101.org/) (in progress)
-- DATA 104: Human Contexts and Ethics of Data (in progress)
+- [DATA 101: Data Engineering](https://www.data101.org/)
+- [DATA 140: Probability for Data Science](https://data140.org/) (in progress)
+- DATA 104: Human Contexts and Ethics of Data
 - MATH 1B: Calculus
 - MATH 53: Multivariable Calculus
 - MATH 54: Linear Algebra and Differential Equations
