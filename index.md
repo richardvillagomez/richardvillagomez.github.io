@@ -4,9 +4,9 @@ layout: homepage
 
 ## About
 
-Hi! I’m Richard, a junior from the [Northern Mariana Islands](https://www.britannica.com/place/Northern-Mariana-Islands) studying CS and Data Science at [UC Berkeley](https://www.berkeley.edu/). My interests lie at the intersection of data science, software engineering, and user-experience design, with a focus on creating accessible, inclusive, and impactful technology. As a Pacific Islander in these fields, I aim to lead data-driven projects focused on sustainable development and social impact across the Pacific.
+Hi! I’m Richard, a junior from the [Northern Mariana Islands](https://www.britannica.com/place/Northern-Mariana-Islands) studying Computer Science and Data Science at [UC Berkeley](https://www.berkeley.edu/). My interests lie at the intersection of data analytics, software engineering, and user-experience design, with a focus on creating accessible, inclusive, and impactful technology. As a Pacific Islander in these fields, I aim to lead data-driven projects focused on sustainable development and social impact across the Pacific.
 
-Beyond my academics and research, I am dedicated to finding innovative ways to make data science education accessible to everyone. As a UGSI for [Data 8, "Foundations of Data Science,"](https://www.data8.org/sp24/) I lead weekly discussions for around 30 students, hold office hours for over 350 students, and guide labs to ensure understanding of Python and Jupyter Notebook. For further details on my teaching experience, please visit the [teaching](https://richardvillagomez.github.io/#teaching) section.
+Beyond my academics and research, I am dedicated to finding ways to make computing and data science education more accessible. As an Undergraduate Student Instructor for [Data 8, "Foundations of Data Science,"](https://www.data8.org/sp25/) I lead weekly discussions for around 30 students, hold office hours for over 350 students, and guide labs to ensure understanding of Python and Jupyter Notebook. For further details on my teaching experience, please visit the [teaching](https://richardvillagomez.github.io/#teaching) section.
 
 Please feel free to feel reach out to me via [email](mailto:richard.villagomez@berkeley.edu) or [LinkedIn](https://www.linkedin.com/in/richard-villagomez/)!
 
@@ -25,20 +25,21 @@ Please feel free to feel reach out to me via [email](mailto:richard.villagomez@b
   computational thinking, and real-world relevance into all instructional materials.
 
 _Course materials are available [here](http://www.data8.org/)._ <br>
-_View my students' instructor evaluations [here](https://drive.google.com/file/d/1gRE9-BvYlLQd6CyzyjwZn5bfK8KoUIdL/view)._
+_View my Fall '24 teaching materials [here](https://bit.ly/data8-fa24-richard)._
 
-### Research, Pedagogy, and Discovery Assistant Facilitator for Tuskegee Scholars Program (Summer 2024)
+### Research Assistant Facilitator for Tuskegee Scholars Program (Summer 2024)
 
-- Work together with a group of 3-4 Tuskegee students within the [Tuskegee Scholars](https://cdss.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership) program to explore a particular case study in data.
-- Design a piece of curriculum for a future Data 6 course, an introduction to computational thinking and quantitative reasoning.
-- Participate in project supervision, worksheet development, and Python debugging.
-- Meet regularly with faculty Program Coordinator.
+- Worked together with a group of 4 Tuskegee students within the [Tuskegee Scholars](https://cdss.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership) program to explore a particular case study in data focused on mental health outcomes.
+- Participated in project supervision, worksheet development, and Python debugging.
+- Met regularly with faculty program coordinator.
 
-### Bootcamp Facilitator for Tuskegee Scholars Program (Summer 2024)
+### Coding Bootcamp Facilitator for Tuskegee Scholars Program (Summer 2024)
 
-- Lead programming for a two-week coding bootcamp for the [Tuskegee Scholars](https://cdss.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership) program, which is modeled off of the first two weeks of CS61A and Data 8 material.
-- Run office hours to assist students in completing programming labs.
-- Meet regularly with faculty program directors to ensure the success of students.
+- Led programming for a two-week coding bootcamp for the [Tuskegee Scholars](https://cdss.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership) program, which is modeled off of the first two weeks of [CS61A]("https://cs61a.org") and [Data 8]("https://data8.org) material.
+- Ran office hours to assist students in completing programming labs.
+- Met regularly with faculty program directors to ensure the success of students.
+
+_Course materials are available [here]("https://data6.org/su24-tuskegee/bootcamp/")._
 
 ### Group Tutor for Data 198, "Foundations Scholars" (Spring 2024)
 
@@ -59,10 +60,9 @@ _Course materials are available [here](http://www.data8.org/fa23/)._
 
 ## Research Interests
 
-- **Machine Learning Applications:** Exploring how machine learning can create meaningful impact in areas like sustainable development, community health, and social justice. I’m particularly interested in making these tools accessible and relevant to underrepresented communities.
-- **Human-Computer Interaction:** Designing user-centered technologies that bridge technical innovation and cultural contexts, with a focus on creating intuitive tools for community engagement and advocacy.
-- **GIS and Spatial Data Analysis in the Pacific:** Using geospatial analysis to highlight stories, challenges, and opportunities within Pacific Islander communities. I’m passionate about mapping initiatives that preserve cultural narratives and inform sustainable policy.
-- **Policy and Advocacy Through Data:** Combining technical insights with advocacy to drive data inclusivity and equitable access to technology, particularly for Indigenous and underserved populations.
+- Human-Computer Interaction: Designing user-centered technologies that bridge technical innovation and cultural contexts, with a focus on creating intuitive tools for community engagement and advocacy.
+- GIS and Spatial Data Analysis in the Pacific: Using geospatial analysis to highlight stories, challenges, and opportunities within Pacific Islander communities. I’m passionate about mapping initiatives that preserve cultural narratives and inform sustainable policy.
+- Policy and Advocacy through Data: Combining technical insights with advocacy to drive data inclusivity and equitable access to technology, especially for indigenous and underserved populations.
 
 ---
 
