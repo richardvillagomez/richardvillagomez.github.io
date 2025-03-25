@@ -4,9 +4,11 @@ layout: homepage
 
 ## About
 
-Hi! I’m Richard, a third-year undergraduate from the [Northern Mariana Islands](https://www.britannica.com/place/Northern-Mariana-Islands) studying Computer Science and Data Science at [UC Berkeley](https://www.berkeley.edu/). My interests lie at the intersection of data analytics, software engineering, and user-experience design, with a focus on creating accessible, inclusive, and impactful technology. As a Pacific Islander in these fields, I aim to lead data-driven projects focused on sustainable development and social impact across the Pacific. Currently, I work as a Research Assistant at [Berkeley Geography](https://geography.berkeley.edu/home), working on building software to make geospatial data on the Pacific Islands more accessible.
+Hi! I’m Richard, a third-year undergraduate from the [Northern Mariana Islands](https://www.britannica.com/place/Northern-Mariana-Islands) studying Computer Science and Data Science at [UC Berkeley](https://www.berkeley.edu/). My interests lie at the intersection of data analytics, software engineering, and user-experience design, with a focus on creating accessible, inclusive, and impactful technology. Currently, I work as a Research Assistant at [Berkeley Geography](https://geography.berkeley.edu/home), working on building software to make geospatial data on the Pacific Islands more accessible.
 
-Beyond my academics and research, I am dedicated to finding ways to make computing and data science education more inclusive. As an Undergraduate Student Instructor for [Data 8, "Foundations of Data Science,"](https://www.data8.org/sp25/) I lead weekly discussions for around 30 students, hold office hours for over 350 students, and guide labs to ensure understanding of Python and Jupyter Notebook. For further details on my teaching experience, please visit the [teaching](https://richardvillagomez.github.io/#teaching) section.
+I'm also passionate about inclusive STEM education, and I'm dedicated to finding ways to make computing and data science education more inclusive. As an Undergraduate Student Instructor for [Data 8, "Foundations of Data Science,"](https://www.data8.org/sp25/) I lead weekly discussions for around 30 students, hold office hours for over 350 students, and guide labs to ensure understanding of Python and Jupyter Notebook. For further details on my teaching experience, please visit the [teaching](https://richardvillagomez.github.io/#teaching) section.
+
+In my free time, I enjoy hiking in the Bay Area, arranging fingerstyle guitar covers, and exploring graphic design through Adobe Illustrator. Some of my broader interests include LGBTQ+ advocacy, labor rights, and environmental justice—especially as they relate to uplifting Pacific Islander communities.
 
 Please feel free to feel reach out to me via [email](mailto:richard.villagomez@berkeley.edu) or [LinkedIn](https://www.linkedin.com/in/richard-villagomez/)!
 
@@ -24,8 +26,7 @@ Please feel free to feel reach out to me via [email](mailto:richard.villagomez@b
   computational thinking, and real-world relevance into all instructional materials.
 
 _Course materials are available [here](http://www.data8.org/)._ <br>
-_View my Fall '24 teaching materials [here](https://bit.ly/data8-fa24-richard)._ <br>
-_View my Spring '25 teaching materials [here](https://bit.ly/data8-sp25-richard)._
+_View my Spring '25 teaching materials [here](https://bit.ly/data8-sp25-richard), or my Fall '24 teaching materials [here](https://bit.ly/data8-fa24-richard)._
 
 ### Research Assistant Facilitator for Tuskegee Scholars Program (Summer 2024)
 
