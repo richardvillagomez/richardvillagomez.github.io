@@ -14,7 +14,7 @@ Please feel free to feel reach out to me via [email](mailto:richard.villagomez@b
 
 ## Teaching
 
-### Undergraduate Student Instructor for Data 8, "Foundations of Data Science" (Summer 2024 – Present)
+### Undergraduate Student Instructor for Data 8, "Foundations of Data Science" (June 2024 – Present)
 
 - Lead sections of 30+ students through weekly labs and discussion sections in Data 8, ”Foundations of Data Science,” using Python and JupyterLab to master programming and data analysis skills through hands-on analysis of diverse
   real-world datasets.
@@ -25,6 +25,7 @@ Please feel free to feel reach out to me via [email](mailto:richard.villagomez@b
 
 _Course materials are available [here](http://www.data8.org/)._ <br>
 _View my Fall '24 teaching materials [here](https://bit.ly/data8-fa24-richard)._
+_View my Spring '25 teaching materials [here](https://bit.ly/data8-sp25-richard)._
 
 ### Research Assistant Facilitator for Tuskegee Scholars Program (Summer 2024)
 
@@ -58,13 +59,27 @@ _Course materials are available [here](http://www.data8.org/fa23/)._
 
 ## Research Interests
 
-- Human-Computer Interaction: Designing user-centered technologies that bridge technical innovation and cultural contexts, with a focus on creating intuitive tools for community engagement and advocacy.
-- GIS and Spatial Data Analysis in the Pacific: Using geospatial analysis to highlight stories, challenges, and opportunities within Pacific Islander communities. I’m passionate about mapping initiatives that preserve cultural narratives and inform sustainable policy.
-- Policy and Advocacy through Data: Combining technical insights with advocacy to drive data inclusivity and equitable access to technology, especially for indigenous and underserved populations.
+- Data Science Pedagogy: Designing inclusive, equity-focused data science education that centers accessibility, ethics, and critical thinking—especially for students from historically underrepresented backgrounds.
+- GIS and Spatial Analysis in the Pacific: Using geospatial tools to surface stories, challenges, and opportunities within Pacific Islander communities. I’m especially interested in mapping projects that preserve cultural narratives and inform sustainable policy.
+- Data Disaggregation and Visibility: Advocating for the disaggregation of Pacific Islander data to ensure our communities are accurately represented in national datasets across health, education, and infrastructure.
 
 ---
 
-{% include_relative _includes/publications.md %}
+## Research Positions
+
+### Research Assistant — [UC Berkeley Department of Geography](https://geography.berkeley.edu/) (Dec 2024 – Present)
+
+- Developing an interactive geospatial web application to visualize climate change and colonial impacts on Pacific Islander communities.
+- Designing backend systems (Python, Flask, PostgreSQL) and implementing REST/GraphQL APIs to support real-time map overlays.
+- Integrating Indigenous knowledge frameworks and historical maps to ensure culturally-informed, scalable tools for researchers and policymakers.
+- Focused on accessibility, sustainability, and the use of spatial data to inform advocacy and community planning across the Pacific.
+
+### Research Fellow — [Coleman Fung Institute for Engineering Leadership](https://funginstitute.berkeley.edu/) (Aug 2024 – Dec 2024)
+
+- Co-developed a GIS platform to explore energy burden and environmental injustice across California.
+- Used ArcGIS, Pandas, and public datasets to map disparities by race, income, and eviction risk, combining spatial and demographic data.
+- Conducted 15+ stakeholder interviews to shape platform features, ensuring accessibility and alignment with community needs.
+- Delivered the tool to advocacy groups supporting equitable energy policy and public transparency.
 
 ---
 
@@ -72,6 +87,11 @@ _Course materials are available [here](http://www.data8.org/fa23/)._
 
 ### Major Courses
 
+- [DATA 8: Foundations of Data Science](https://www.data8.org/sp23/)
+- [DATA 100: Principles and Techniques of Data Science](https://ds100.org/fa23/)
+- [DATA 101: Data Engineering](https://www.data101.org/)
+- [DATA 140: Probability for Data Science](https://data140.org/) (in progress)
+- [DATA 104: Human Contexts and Ethics of Data](https://cdss.berkeley.edu/dsus/hce/data-104-human-contexts-and-ethics-data)
 - [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/)
 - [CS 61B: Data Structures](https://sp23.datastructur.es/)
 - [CS 61C: Machine Structures](https://cs61c.org) (in progress)
@@ -79,11 +99,6 @@ _Course materials are available [here](http://www.data8.org/fa23/)._
 - [CS 170: Efficient Algorithms and Intractable Problems](https://cs170.org/)
 - [CS 184: Computer Graphics]([https://cs184.eecs.berkeley.edu/sp25/]) (in progress)
 - [CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp24/)
-- [DATA 8: Foundations of Data Science](https://www.data8.org/sp23/)
-- [DATA 100: Principles and Techniques of Data Science](https://ds100.org/fa23/)
-- [DATA 101: Data Engineering](https://www.data101.org/)
-- [DATA 140: Probability for Data Science](https://data140.org/) (in progress)
-- DATA 104: Human Contexts and Ethics of Data
 - MATH 1B: Calculus
 - MATH 53: Multivariable Calculus
 - MATH 54: Linear Algebra and Differential Equations
