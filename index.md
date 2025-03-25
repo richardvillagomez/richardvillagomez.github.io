@@ -24,7 +24,7 @@ Please feel free to feel reach out to me via [email](mailto:richard.villagomez@b
   computational thinking, and real-world relevance into all instructional materials.
 
 _Course materials are available [here](http://www.data8.org/)._ <br>
-_View my Fall '24 teaching materials [here](https://bit.ly/data8-fa24-richard)._
+_View my Fall '24 teaching materials [here](https://bit.ly/data8-fa24-richard)._ <br>
 _View my Spring '25 teaching materials [here](https://bit.ly/data8-sp25-richard)._
 
 ### Research Assistant Facilitator for Tuskegee Scholars Program (Summer 2024)
