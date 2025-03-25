@@ -10,7 +10,7 @@ I'm also passionate about inclusive STEM education, and I'm dedicated to finding
 
 In my free time, I enjoy hiking in the Bay Area, arranging fingerstyle guitar covers, and exploring graphic design through Adobe Illustrator. Some of my broader interests include LGBTQ+ advocacy, labor rights, and environmental justice—especially as they relate to uplifting Pacific Islander communities.
 
-Please feel free to feel reach out to me via [email](mailto:richard.villagomez@berkeley.edu) or [LinkedIn](https://www.linkedin.com/in/richard-villagomez/)!
+I'm always seeking new opportunities for experience and growth. Please feel free to feel reach out to me via [email](mailto:richard.villagomez@berkeley.edu) or [LinkedIn](https://www.linkedin.com/in/richard-villagomez/)!
 
 ---
 
