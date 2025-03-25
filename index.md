@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-Hi! I’m Richard, a junior from the [Northern Mariana Islands](https://www.britannica.com/place/Northern-Mariana-Islands) studying Computer Science and Data Science at [UC Berkeley](https://www.berkeley.edu/). My interests lie at the intersection of data analytics, software engineering, and user-experience design, with a focus on creating accessible, inclusive, and impactful technology. As a Pacific Islander in these fields, I aim to lead data-driven projects focused on sustainable development and social impact across the Pacific. Currently, I work as a Research Assistant at [Berkeley Geography](https://geography.berkeley.edu/home), working on building software to make geospatial data on the Pacific Islands more accessible.
+Hi! I’m Richard, a third-year undergraduate from the [Northern Mariana Islands](https://www.britannica.com/place/Northern-Mariana-Islands) studying Computer Science and Data Science at [UC Berkeley](https://www.berkeley.edu/). My interests lie at the intersection of data analytics, software engineering, and user-experience design, with a focus on creating accessible, inclusive, and impactful technology. As a Pacific Islander in these fields, I aim to lead data-driven projects focused on sustainable development and social impact across the Pacific. Currently, I work as a Research Assistant at [Berkeley Geography](https://geography.berkeley.edu/home), working on building software to make geospatial data on the Pacific Islands more accessible.
 
 Beyond my academics and research, I am dedicated to finding ways to make computing and data science education more inclusive. As an Undergraduate Student Instructor for [Data 8, "Foundations of Data Science,"](https://www.data8.org/sp25/) I lead weekly discussions for around 30 students, hold office hours for over 350 students, and guide labs to ensure understanding of Python and Jupyter Notebook. For further details on my teaching experience, please visit the [teaching](https://richardvillagomez.github.io/#teaching) section.
 
@@ -14,10 +14,9 @@ Please feel free to feel reach out to me via [email](mailto:richard.villagomez@b
 
 ## Teaching
 
-### Undergraduate Student Instructor for Data 8, "Foundations of Data Science" (Summer 2024)
+### Undergraduate Student Instructor for Data 8, "Foundations of Data Science" (Summer 2024 – Present)
 
-- Lead sections of 30+ students through weekly labs and discussion sections in Data 8, ”Foundations of Data Science,”
-  using Python and JupyterLab to master programming and data analysis skills through hands-on analysis of diverse
+- Lead sections of 30+ students through weekly labs and discussion sections in Data 8, ”Foundations of Data Science,” using Python and JupyterLab to master programming and data analysis skills through hands-on analysis of diverse
   real-world datasets.
 - Provide personalized guidance during office hours, ensuring student comprehension of complex topics and facilitating
   their success in the course.
@@ -35,11 +34,11 @@ _View my Fall '24 teaching materials [here](https://bit.ly/data8-fa24-richard)._
 
 ### Coding Bootcamp Facilitator for Tuskegee Scholars Program (Summer 2024)
 
-- Led programming for a two-week coding bootcamp for the [Tuskegee Scholars](https://cdss.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership) program, which is modeled off of the first two weeks of [CS61A]("https://cs61a.org") and [Data 8]("https://data8.org) material.
+- Led programming for a two-week coding bootcamp for the [Tuskegee Scholars](https://cdss.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership) program, which is modeled off of the first two weeks of [CS61A](https://cs61a.org) and [Data 8](https://data8.org) material.
 - Ran office hours to assist students in completing programming labs.
 - Met regularly with faculty program directors to ensure the success of students.
 
-_Course materials are available [here]("https://data6.org/su24-tuskegee/bootcamp/")._
+_Course materials are available [here](https://data6.org/su24-tuskegee/bootcamp/)._
 
 ### Group Tutor for Data 198, "Foundations Scholars" (Spring 2024)
 
