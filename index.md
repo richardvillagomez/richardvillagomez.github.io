@@ -110,11 +110,12 @@ _Course materials are available [here](http://www.data8.org/fa23/)._
 
 ### Elective Courses
 
-- POLISCI 5: International Relations
 - AFRICAM 5A: African American Life and Culture in the United States
-- ESPM 50AC: Introduction to Culture and Natural Resource Management
+- COGSCI N1: Introduction to Cognitive Science
 - COGSCI 127: Cognitive Neuroscience
+- ESPM 50AC: Introduction to Culture and Natural Resource Management
 - NUSCTX 10: Introduction to Human Nutrition
+- POLISCI 5: International Relations
 
 <!---
 ## News
