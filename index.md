@@ -32,12 +32,10 @@ _View my Spring '25 teaching materials [here](https://bit.ly/data8-sp25-richard)
 
 - Worked together with a group of 4 Tuskegee students within the [Tuskegee Scholars](https://cdss.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership) program to explore a particular case study in data focused on mental health outcomes.
 - Participated in project supervision, worksheet development, and Python debugging.
-- Met regularly with faculty program coordinator.
 
 ### Coding Bootcamp Facilitator for Tuskegee Scholars Program (Summer 2024)
 
 - Led programming for a two-week coding bootcamp for the [Tuskegee Scholars](https://cdss.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership) program, which is modeled off of the first two weeks of [CS61A](https://cs61a.org) and [Data 8](https://data8.org) material.
-- Ran office hours to assist students in completing programming labs.
 - Met regularly with faculty program directors to ensure the success of students.
 
 _Course materials are available [here](https://data6.org/su24-tuskegee/bootcamp/)._
