@@ -8,9 +8,9 @@ Hi! I’m Richard, a third-year undergraduate from the [Northern Mariana Islands
 
 I'm also passionate about inclusive STEM education, and I'm dedicated to finding ways to make computing and data science education more inclusive. As an Undergraduate Student Instructor for [Data 8, "Foundations of Data Science,"](https://www.data8.org/sp25/) I lead weekly discussions for around 30 students, hold office hours for over 350 students, and guide labs to ensure understanding of Python and Jupyter Notebook. For further details on my teaching experience, please visit the [teaching](https://richardvillagomez.github.io/#teaching) section.
 
-In my free time, I enjoy hiking in the Bay Area, arranging fingerstyle guitar covers, and exploring graphic design through Adobe Illustrator. Some of my broader interests include LGBTQ+ advocacy, labor rights, and environmental justice—especially as they relate to uplifting Pacific Islander communities.
+In my free time, I enjoy hiking in the Bay Area, arranging fingerstyle guitar covers, and exploring graphic design through Adobe software. Some of my broader interests include LGBTQ+ advocacy, labor rights, and environmental justice—especially as they relate to uplifting Pacific Islander communities.
 
-I'm always seeking new opportunities for experience and growth. Please feel free to feel reach out to me via [email](mailto:richard.villagomez@berkeley.edu) or [LinkedIn](https://www.linkedin.com/in/richard-villagomez/)!
+I'm always seeking new opportunities to grow in my experience. Please feel free to feel reach out to me via [email](mailto:richard.villagomez@berkeley.edu) or [LinkedIn](https://www.linkedin.com/in/richard-villagomez/)!
 
 ---
 
@@ -22,7 +22,7 @@ I'm always seeking new opportunities for experience and growth. Please feel free
   real-world datasets.
 - Provide personalized guidance during office hours, ensuring student comprehension of complex topics and facilitating
   their success in the course.
-- Collaborate closely with professors to align course content with learning objectives, integrating inferential thinking,
+- Collaborate closely with professor to align course content with learning objectives, integrating inferential thinking,
   computational thinking, and real-world relevance into all instructional materials.
 
 _Course materials are available [here](http://www.data8.org/)._ <br>
@@ -58,9 +58,13 @@ _Course materials are available [here](http://www.data8.org/fa23/)._
 
 ## Research Interests
 
-- Data Science Pedagogy: Designing inclusive, equity-focused data science education that centers accessibility, ethics, and critical thinking—especially for students from historically underrepresented backgrounds.
-- GIS and Spatial Analysis in the Pacific: Using geospatial tools to surface stories, challenges, and opportunities within Pacific Islander communities. I’m especially interested in mapping projects that preserve cultural narratives and inform sustainable policy.
-- Data Disaggregation and Visibility: Advocating for the disaggregation of Pacific Islander data to ensure our communities are accurately represented in national datasets across health, education, and infrastructure.
+- Data science pedagogy: Designing inclusive, equity-focused data science education that centers accessibility, ethics, and critical thinking—especially for students from historically underrepresented backgrounds.
+- GIS and spatial analysis in the Pacific: Using geospatial tools to surface stories, challenges, and opportunities within Pacific Islander communities. I’m especially interested in mapping projects that preserve cultural narratives and inform sustainable policy.
+- Data disaggregation and visibility: Advocating for the disaggregation of Pacific Islander data to ensure our communities are accurately represented in national datasets across health, education, and infrastructure.
+
+---
+
+{% include_relative _includes/publications.md %}
 
 ---
 
