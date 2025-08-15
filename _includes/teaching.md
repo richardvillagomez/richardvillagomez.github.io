@@ -1,16 +1,18 @@
 ## Teaching
 
-### Undergraduate Student Instructor for Data 8, "Foundations of Data Science" (June 2024 – Present)
+### Head Undergraduate Student Instructor for Data 6, "Introduction to Computational Thinking with Data" (August 2025 - Present)
+
+- will update soon!
+
+### Undergraduate Student Instructor for Data 8, "Foundations of Data Science" (June 2024 - August 2025)
 
 - Lead sections of 30+ students through weekly labs and discussion sections in Data 8, ”Foundations of Data Science,” using Python and JupyterLab to master programming and data analysis skills through hands-on analysis of diverse
   real-world datasets.
-- Provide personalized guidance during office hours, ensuring student comprehension of complex topics and facilitating
-  their success in the course.
-- Collaborate closely with professor to align course content with learning objectives, integrating inferential thinking,
-  computational thinking, and real-world relevance into all instructional materials.
+- Provide personalized guidance during office hours, ensuring student comprehension of complex topics and facilitating their success in the course.
+- Collaborate closely with professor to align course content with learning objectives, integrating inferential thinking, computational thinking, and real-world relevance into all instructional materials.
 
-_Course materials are available [here](http://www.data8.org/)._ <br>
-_View my Spring '25 teaching materials [here](https://bit.ly/data8-sp25-richard), or my Fall '24 teaching materials [here](https://bit.ly/data8-fa24-richard)._
+_Course materials are available at [data8.org](http://www.data8.org/)._ <br>
+_View my [Summer '25 teaching materials](https://bit.ly/data8-su25-richard), or my [Spring '25 teaching materials](https://bit.ly/data8-sp25-richard)._
 
 ### Research Assistant Facilitator for Tuskegee Scholars Program (Summer 2024)
 
