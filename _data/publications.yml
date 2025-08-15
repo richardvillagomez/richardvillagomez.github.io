@@ -1,0 +1,47 @@
+main:
+  - title: "Email Classification: Enhancing Spam Filtering with Machine Learning"
+    authors: "Language: Python (Pandas)"
+    conference_short: ML
+    #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: November 2023
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/spam-ham.png
+    #notes: Early Accept
+
+  - title: "Housing Inequalities in Chicago: Data Analysis and Predictive Modeling"
+    authors: "Language: Python (Pandas)"
+    conference_short: EDA
+    #conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    conference: October 2023
+    #pdf: https://arxiv.org/pdf/2002.10211.pdf
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-cinf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/proja2.png
+
+  - title: "WordNet"
+    authors: "Language: Java"
+    conference_short: Data Structures
+    #conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    conference: March 2023
+    #pdf: https://arxiv.org/pdf/2002.10211.pdf
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://sp23.datastructur.es/materials/proj/proj2a/#acknowledgements
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/wordnet.png
+
+  - title: "Data for Development: World Population and Poverty"
+    authors: "Language: Python"
+    conference_short: Data Analysis
+    #conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    conference: February 2023
+    #pdf: https://arxiv.org/pdf/2002.10211.pdf
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/d8-proj1.png
