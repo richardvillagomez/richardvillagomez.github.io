@@ -2,14 +2,17 @@
 
 ### Head Undergraduate Student Instructor for Data 6, "Introduction to Computational Thinking with Data" (August 2025 - Present)
 
-- will update soon!
+- Led two sections of 25 students through weekly labs and discussion sections in Data 6, an introductory-level data science course covering topics such as Python fundamentals, data visualizations, and computational social science.
+- Held dedicated office hours to support student learning goals.
+- Assisted with assignment development using Otter-Grader.
+
+_Course materials are available at [data6.org](http://data6.org/fa25)._ <br>
 
 ### Undergraduate Student Instructor for Data 8, "Foundations of Data Science" (June 2024 - August 2025)
 
-- Lead sections of 30+ students through weekly labs and discussion sections in Data 8, ”Foundations of Data Science,” using Python and JupyterLab to master programming and data analysis skills through hands-on analysis of diverse
-  real-world datasets.
-- Provide personalized guidance during office hours, ensuring student comprehension of complex topics and facilitating their success in the course.
-- Collaborate closely with professor to align course content with learning objectives, integrating inferential thinking, computational thinking, and real-world relevance into all instructional materials.
+- Led sections of 30+ students through weekly labs and discussion sections in Data 8, ”Foundations of Data Science,” using Python and JupyterLab to master programming and data analysis skills through hands-on analysis of diverse real-world datasets.
+- Provided personalized guidance during office hours, ensuring student comprehension of complex topics and facilitating their success in the course.
+- Collaborated closely with professor to align course content with learning objectives, integrating inferential thinking, computational thinking, and real-world relevance into all instructional materials.
 
 _Course materials are available at [data8.org](http://www.data8.org/)._ <br>
 _View my [Summer '25 teaching materials](https://bit.ly/data8-su25-richard), or my [Spring '25 teaching materials](https://bit.ly/data8-sp25-richard)._
