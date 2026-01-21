@@ -34,11 +34,11 @@ _Course materials are available [here](https://data6.org/su24-tuskegee/bootcamp/
 - Provide academic support to students enrolled in the [Data Scholars](https://cdss.berkeley.edu/data-science/student-opportunities/data-scholars) program for historically underrepresented students in Data 8, "Foundations of Data Science," through a weekly Foundations workshop, dedicated office hours, and exam prep sections.
 - Consuted with lead instructors to practice effective pedagogy and refine course materials on a weekly basis.
 
-_Course materials are available [here](http://www.data8.org/sp23/)._ <br>
+_Course materials are available [here](http://www.data8.org/sp24/)._ <br>
 
 ### Academic Intern for Data 8, "Foundations of Data Science" (Fall 2023)
 
 - Provided weekly assistance to 45 students enrolled in [Data Scholars](https://cdss.berkeley.edu/data-science/student-opportunities/data-scholars) program for underrepresented and nontraditional students every week in lab with questions about discussion worksheets, Jupyter Notebook assignments in Python, projects, and other course materials in Data 8.
 - Met with a shadow Undergraduate Student Instructor (uGSI) throughout the semester to practice and reflect on personal pedagogy skills and professional development.
 
-_Course materials are available [here](http://www.data8.org/fa23/)._
+_Course materials are available [here](http://www.data8.org/fa23/)._ <br>
