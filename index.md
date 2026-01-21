@@ -15,3 +15,5 @@ I also organize as a proud member of [UAW Local 4811](https://www.uaw4811.org/),
 ---
 {% include_relative _includes/teaching.md %}
 ---
+{% include_relative _includes/research.md %}
+---
