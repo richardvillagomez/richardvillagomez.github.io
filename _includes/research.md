@@ -1,2 +1,4 @@
 ## Research
-Through my experience in teaching and curriculum development, I’ve discovered my central interest in computing education research—specifically in designing curriculum and pedagogical approaches that expand access to computing for nontraditional and underrepresented students, while fostering deep conceptual understanding and a sense of belonging. 
+(in progress!)
+My research interests are centered on computing education—specifically in designing curriculum and pedagogical approaches that expand access to computing for nontraditional and underrepresented students, while fostering deep conceptual understanding and a true sense of belonging. 
+
