@@ -219,7 +219,7 @@ function isActiveNav(href: string): boolean {
 
         document.addEventListener("astro:before-swap", (event) => {
           const currentTheme = document.documentElement.classList.contains("dark")
-            ? "dark"
+            ? "light"
             : "light";
 
           event.newDocument.documentElement.classList.toggle(
@@ -701,19 +701,6 @@ function isActiveNav(href: string): boolean {
                 }
               </ul>
             </nav>
-            <button
-              type="button"
-              data-theme-toggle
-              class="glass-control theme-switch-button inline-flex shrink-0 cursor-pointer items-center justify-center text-ink-600 dark:text-paper-300"
-              aria-label="Switch to dark mode"
-              title="Switch to dark mode"
-            >
-              <span class="theme-switch-visual" aria-hidden="true">
-                <span class="theme-switch-thumb"></span>
-                <span class="theme-switch-icon theme-switch-icon-sun i-ph-sun"></span>
-                <span class="theme-switch-icon theme-switch-icon-moon i-ph-moon"></span>
-              </span>
-            </button>
           </div>
 
           <!-- Mobile menu button -->

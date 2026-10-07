@@ -46,6 +46,13 @@ export const siteConfig = defineSiteConfig({
 		"Fictional Archives",
 		"Imaginary Civic Systems",
 	],
+
+	navLinks: [
+		{ href: "/about", label: "About" },
+		{ href: "/researches", label: "Research" },
+		{ href: "/teaching", label: "Teaching" },
+	],
+	
 	socialLinks: [
 		{
 			label: "Sample repository",
@@ -67,14 +74,14 @@ export const siteConfig = defineSiteConfig({
 	// Footer display: links are hidden by default for a quieter academic layout.
 	footer: {
 		showProfileLinks: false, // Set true to show the social links above in the footer.
-		showAuthor: false, // Set false to show the copyright line without the author name.
+		showAuthor: true, // Set false to show the copyright line without the author name.
 	},
 
 	// Optional: omit any entry to use the concise academic default copy.
 	pageTitles: {
 		about: {
 			description:
-				"A fictional academic background created solely to demonstrate profile, experience, service, and award layouts.",
+				"A fictional academic background created solely to demonstrate profile, experience, service, and award layouts."
 		},
 		researches: {
 			description:
