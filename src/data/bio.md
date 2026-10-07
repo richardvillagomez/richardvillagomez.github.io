@@ -1,1 +1,4 @@
-I’m a first-year MS candidate in Computer Science at the Baskin School of Engineering, with a research focus in equitable computing education under Professor Hao Yue. I’m excited to be a teaching assistant for CSE 20: Beginning Programming in Python.
+I'm a first-year MS candidate in Computer Science at the Baskin School of Engineering, with a research focus in equitable computing education under Professor Hao Yue. I'm excited to be a teaching assistant for CSE 20: Beginning Programming in Python.
+
+I’m a recent UC Berkeley graduate from the island of Saipan in the Northern Mariana Islands, and I studied Computer Science and Data Science.
+

@@ -14,7 +14,18 @@ export const siteConfig = defineSiteConfig({
 	hero: {
 		headline: "",
 		subheadline:
-			`I’m a first-year MS candidate in Computer Science at the Baskin School of Engineering, with a research focus in equitable computing education under Professor Hao Yue. I’m excited to be a teaching assistant for CSE 20: Beginning Programming in Python. `,
+			`
+			I'm a first-year MS candidate in Computer Science at the Baskin School of Engineering, with a research focus in equitable computing education under Professor Hao Yue. I'm excited to be a teaching assistant for CSE 20: Beginning Programming in Python.
+
+I’m a recent UC Berkeley graduate from the island of Saipan in the Northern Mariana Islands, and I studied Computer Science and Data Science.
+
+I'm passionate about finding ways to make computing and data science education more equitable and accessible. I discovered my passion for computing education through my position as an undergraduate teaching assistant for Data 8: Foundations of Data Science (UC Berkeley's largest course!), teaching weekly discussion sections across core data science topics using Python and Jupyter notebooks. I'm currently spending my final summer in Berkeley as a Head Teaching Assistant for the course.
+
+I also organize as a proud member of UAW Local 4811, the union of 48,000 academic workers at the University of California. During undergrad, I organized with fellow EECS and Data Science Workers—it was because of member organizing that we had strong workplace protections to maintain high quality of instruction.
+			
+			
+			
+			`,
 		profileImage: "/richard.jpg",
 		profileAlt: "Abstract illustration representing the fictional researcher Mira Latticewell",
 		profileImageHeight: 250,
