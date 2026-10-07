@@ -10,7 +10,7 @@ import { withTrailingSlash } from "./src/lib/site-url";
 import { fontProviders } from "astro/config";
 
 export default defineConfig({
-	site: withTrailingSlash(siteConfig.siteUrl),
+	site: 'https://richardvillagomez.github.io',
 	integrations: [sitemap(), mdx()],
 	vite: {
 		build: {
