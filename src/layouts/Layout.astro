@@ -212,8 +212,7 @@ function isActiveNav(href: string): boolean {
         const prefersDark =
           window.matchMedia?.("(prefers-color-scheme: dark)").matches ?? false;
         const isDark =
-          storedTheme === "dark" || (storedTheme !== "light" && prefersDark);
-
+          false;
         document.documentElement.classList.toggle("dark", isDark);
         document.documentElement.dataset.theme = isDark ? "dark" : "light";
 
