@@ -91,7 +91,7 @@ export function defineSiteConfig(input: SiteConfigInput): SiteConfig {
 	const ogImageUsesProfile = ogImage === profileImage;
 
 	return {
-		title: input.title ?? `${input.author} | Academic Portfolio`,
+		title: input.title ?? `${input.author}`,
 		author: input.author,
 		description: input.description ?? input.hero.subheadline,
 		siteUrl: input.siteUrl,
