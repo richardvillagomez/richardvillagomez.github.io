@@ -1,4 +1,3 @@
-import { readFileSync } from 'node:fs';
 import {
 	defineConfig,
 	presetIcons,
@@ -8,14 +7,8 @@ import {
 } from 'unocss';
 import siteConfig from './src/side.config';
 
-// Dynamic icon names from editable data need to be available to UnoCSS at build time.
-const aboutIcons =
-	readFileSync(new URL('./src/data/about.yml', import.meta.url), 'utf8').match(
-		/\bi-[\w:-]+/g,
-	) ?? [];
 const iconSafelist = [
 	...siteConfig.socialLinks.map((link) => link.icon),
-	...aboutIcons,
 ].filter((icon): icon is string => Boolean(icon && icon.startsWith('i-')));
 
 iconSafelist.push(
@@ -84,12 +77,17 @@ export default defineConfig({
 			cssExtend: {
 				':where(p, li, blockquote)': {
 					'font-family':
-						"'Atkinson Hyperlegible', 'Noto Sans SC', 'Segoe UI', system-ui, sans-serif",
+						"var(--font-hanken-grotesk), 'Atkinson Hyperlegible', 'Noto Sans SC', 'Segoe UI', system-ui, sans-serif",
 				},
 				':where(h1, h2, h3, h4)': {
 					'font-family': "'Crimson Pro', Georgia, 'Times New Roman', serif",
 					'letter-spacing': '-0.015em',
 				},
+
+				':where(h1, h2, h3)': {
+					'font-size': '2.25rem',
+				},
+
 			},
 		}),
 		presetIcons({
@@ -258,7 +256,7 @@ export default defineConfig({
 		},
 		fontFamily: {
 			sans:
-				"'Atkinson Hyperlegible', 'Noto Sans SC', 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif",
+				"var(--font-hanken-grotesk), 'Atkinson Hyperlegible', 'Noto Sans SC', 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif",
 			heading: "'Crimson Pro', Georgia, 'Times New Roman', 'Noto Serif SC', serif",
 			mono:
 				"'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace",

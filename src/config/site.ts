@@ -30,7 +30,6 @@ export interface SiteConfigInput
 	pageTitles?: PageTitlesInput;
 	homeBlocks?: {
 		hero?: { enabled?: boolean };
-		showcase?: HomeSectionInput;
 		publications?: HomeSectionInput;
 		posts?: HomeSectionInput;
 	};
@@ -40,7 +39,6 @@ const defaultNavLinks: SiteConfig["navLinks"] = [
 	{ href: "/about", label: "About" },
 	{ href: "/researches", label: "Research" },
 	{ href: "/teaching", label: "Teaching" },
-	{ href: "/projects", label: "Projects" },
 	{ href: "/posts", label: "Blog" },
 ];
 
@@ -50,12 +48,8 @@ const defaultPageTitles: SiteConfig["pageTitles"] = {
 		description: "Academic background, appointments, and service.",
 	},
 	researches: {
-		title: "Publications",
-		description: "Peer-reviewed publications, working papers, and essays.",
-	},
-	projects: {
-		title: "Projects",
-		description: "Selected research, infrastructure, and community projects.",
+		title: "Research",
+		description: "Research interests and publications.",
 	},
 	teaching: {
 		title: "Teaching",
@@ -71,18 +65,13 @@ const defaultHomeBlocks: SiteConfig["homeBlocks"] = {
 	hero: {
 		enabled: true,
 	},
-	showcase: {
-		enabled: true,
-		title: "Featured Initiatives",
-		description: "Key research infrastructure, systems, and open scholarship",
-	},
 	publications: {
-		enabled: true,
+		enabled: false,
 		title: "Selected Publications",
 		description: "Recent peer-reviewed work",
 	},
 	posts: {
-		enabled: true,
+		enabled: false,
 		title: "Latest Posts",
 		description: "Thoughts and updates",
 	},
@@ -144,10 +133,6 @@ export function defineSiteConfig(input: SiteConfigInput): SiteConfig {
 				...defaultPageTitles.researches,
 				...input.pageTitles?.researches,
 			},
-			projects: {
-				...defaultPageTitles.projects,
-				...input.pageTitles?.projects,
-			},
 			teaching: {
 				...defaultPageTitles.teaching,
 				...input.pageTitles?.teaching,
@@ -158,13 +143,6 @@ export function defineSiteConfig(input: SiteConfigInput): SiteConfig {
 			hero: {
 				...defaultHomeBlocks.hero,
 				...input.homeBlocks?.hero,
-			},
-			showcase: {
-				...defaultHomeBlocks.showcase,
-				...input.homeBlocks?.showcase,
-				enabled:
-					input.homeBlocks?.showcase?.enabled ??
-					defaultHomeBlocks.showcase.enabled,
 			},
 			publications: {
 				...defaultHomeBlocks.publications,

@@ -1,0 +1,43 @@
+---
+import type { MarkdownHeading } from "astro";
+import Layout from "../layouts/Layout.astro";
+import PageJumpNav from "./PageJumpNav.astro";
+import type { PageSchemaType } from "../lib/seo";
+
+export interface Props {
+  title: string;
+  description?: string;
+  headings?: MarkdownHeading[];
+  schemaType?: PageSchemaType;
+}
+
+const { title, description = "", headings = [], schemaType } = Astro.props;
+
+const navItems = headings
+  .filter((heading) => heading.depth === 2)
+  .map((heading) => ({ href: `#${heading.slug}`, label: heading.text }));
+---
+
+<Layout title={title} description={description} schemaType={schemaType}>
+  <div class="page-stack">
+    <header class="page-header">
+      <h1 class="page-title">{title}</h1>
+      {description && <p class="page-description">{description}</p>}
+    </header>
+
+    {navItems.length > 1 && <PageJumpNav items={navItems} />}
+
+    <div
+      class="prose prose-neutral max-w-3xl text-[1.0625rem] leading-[1.8] dark:prose-invert
+      prose-headings:scroll-mt-24 prose-headings:font-heading prose-headings:font-semibold prose-headings:tracking-[-0.01em] prose-headings:text-ink-950 dark:prose-headings:text-paper-50
+      prose-h2:text-[1.75rem] prose-h2:leading-[1.15] prose-h3:text-[1.375rem] prose-h3:leading-[1.25]
+      prose-p:text-ink-700 dark:prose-p:text-paper-300
+      prose-li:text-ink-700 dark:prose-li:text-paper-300
+      prose-a:font-medium prose-a:text-accent-700 prose-a:decoration-accent-300 prose-a:underline-offset-4 hover:prose-a:text-accent-800 dark:prose-a:text-accent-200 dark:prose-a:decoration-accent-600 dark:hover:prose-a:text-accent-100
+      prose-strong:text-ink-950 dark:prose-strong:text-paper-50
+      prose-hr:border-paper-300/90 dark:prose-hr:border-ink-700"
+    >
+      <slot />
+    </div>
+  </div>
+</Layout>

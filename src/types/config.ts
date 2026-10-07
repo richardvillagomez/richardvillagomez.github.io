@@ -82,14 +82,12 @@ export interface SiteConfig {
 	pageTitles: {
 		about: { title: string; description?: string };
 		researches: { title: string; description?: string };
-		projects: { title: string; description?: string };
 		teaching: { title: string; description?: string };
 		posts: { title: string; description?: string };
 	};
 	// --- Home Page Blocks ---
 	homeBlocks: {
 		hero: { enabled: boolean };
-		showcase: { enabled: boolean; title?: string; description?: string };
 		publications: { enabled: boolean; title: string; description?: string };
 		posts: { enabled: boolean; title: string; description?: string };
 	};

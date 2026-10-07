@@ -6,6 +6,9 @@ import UnoCSS from "unocss/vite";
 import siteConfig from "./src/side.config";
 import { withTrailingSlash } from "./src/lib/site-url";
 
+// for importing font
+import { fontProviders } from "astro/config";
+
 export default defineConfig({
 	site: withTrailingSlash(siteConfig.siteUrl),
 	integrations: [sitemap(), mdx()],
@@ -22,4 +25,16 @@ export default defineConfig({
 		prefetchAll: true,
 		defaultStrategy: "hover",
 	},
+	fonts: [{
+    provider: fontProviders.local(),
+    name: "Hanken Grotesk",
+    cssVariable: "--font-hanken-grotesk",
+    options: {
+      variants: [{
+        src: ['./src/assets/fonts/hankengrotesk-400-latin.woff2'],
+        weight: 'normal',
+        style: 'normal'
+      }]
+    }
+  }]
 });

@@ -2,22 +2,23 @@
  * Scholar Pages - primary configuration
  *
  * Start here for identity, profile, links, and page introductions.
- * Publications, CV records, projects, courses, and posts live in src/data
- * and src/content so this file stays quick to scan.
+ * About, research, and teaching pages live in src/data as Markdown, and
+ * posts live in src/content so this file stays quick to scan.
  */
 import { defineSiteConfig } from "./src/config/site";
 
 export const siteConfig = defineSiteConfig({
 	// Required: the four values most sites should personalize first.
-	author: "Mira Latticewell",
+	author: "Richard Villagomez",
 	siteUrl: "https://astro-theme-scholars.pages.dev",
 	hero: {
-		headline:
-			"Fictional research on learning systems, shared archives, and humane web infrastructure.",
+		headline: "",
 		subheadline:
-			"Mira Latticewell is an entirely fictional scholar created to demonstrate this academic portfolio theme.",
-		profileImage: "/profile.svg",
+			`I’m a first-year MS candidate in Computer Science at the Baskin School of Engineering, with a research focus in equitable computing education under Professor Hao Yue. I’m excited to be a teaching assistant for CSE 20: Beginning Programming in Python. `,
+		profileImage: "/richard.jpg",
 		profileAlt: "Abstract illustration representing the fictional researcher Mira Latticewell",
+		profileImageHeight: 250,
+		profileImageWidth: 250,
 		statusBadge: "Fictional demo profile",
 	},
 
@@ -38,13 +39,7 @@ export const siteConfig = defineSiteConfig({
 	// ogImageAlt: "Scholar name - academic portfolio",
 	// ogImageWidth: 1200,
 	// ogImageHeight: 630,
-	affiliations: [
-		{
-			role: "Fictional Associate Professor",
-			department: "School of Imaginary Systems",
-			institution: "Northstar Commons University (fictional)",
-		},
-	],
+
 	researchInterests: [
 		"Synthetic Learning Environments",
 		"Speculative Interfaces",
@@ -72,7 +67,7 @@ export const siteConfig = defineSiteConfig({
 	// Footer display: links are hidden by default for a quieter academic layout.
 	footer: {
 		showProfileLinks: false, // Set true to show the social links above in the footer.
-		showAuthor: true, // Set false to show the copyright line without the author name.
+		showAuthor: false, // Set false to show the copyright line without the author name.
 	},
 
 	// Optional: omit any entry to use the concise academic default copy.
@@ -84,10 +79,6 @@ export const siteConfig = defineSiteConfig({
 		researches: {
 			description:
 				"Fictional publications attributed to Mira Latticewell for demonstrating scholarly records and citation tools.",
-		},
-		projects: {
-			description:
-				"Fictional research tools and imaginary infrastructure projects created for this theme demo.",
 		},
 		teaching: {
 			description:
@@ -102,11 +93,6 @@ export const siteConfig = defineSiteConfig({
 	// Homepage composition: switch off any block you do not want to display.
 	homeBlocks: {
 		hero: { enabled: true },
-		showcase: {
-			enabled: true,
-			title: "Fictional Initiatives",
-			description: "Imaginary systems and prototype research infrastructure",
-		},
 		publications: {
 			enabled: true,
 			description: "Selected fictional publications",
