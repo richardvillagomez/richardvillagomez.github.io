@@ -1,2 +1,0 @@
-## Research Interests
-in-progress
