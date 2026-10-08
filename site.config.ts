@@ -66,7 +66,7 @@ I also organize as a proud member of UAW Local 4811, the union of 48,000 academi
 	
 	socialLinks: [
 		{
-			label: "Sample repository",
+			label: " repository",
 			href: "https://example.com/mira-latticewell/repository",
 			icon: "i-mdi:github",
 		},
