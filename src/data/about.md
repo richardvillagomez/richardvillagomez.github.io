@@ -1,4 +1,4 @@
-Welcome to my website! If you're on this page you're probably hoping to learn a bit more about me. 
+Welcome to my website! If you're on this page you're probably hoping to learn a bit more about me. I'll note that this is in-progress so expect to see incremental updates.
 
 As I mentioned, I was born and raised on the island of [Saipan](https://en.wikipedia.org/wiki/Saipan%2C_Northern_Mariana_Islands). I'm of [Chamorro](https://en.wikipedia.org/wiki/Chamorro_people) descent, and I have a deep respect for my culture.  
 

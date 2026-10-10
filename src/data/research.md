@@ -4,4 +4,4 @@ As A.I. becomes increasingly integrated into programming workflows (ahhh), I thi
 
 As a Head TA for Data 6, I contributed to curriculum development and instruction across topics including Python fundamentals (iteration, conditionals, functions), data visualizations, table manipulation, HTML web scraping, API usage, and qualitative coding. We are currently working to publish our curriculum at [dubois-ctds.github.io](https://dubois-ctds.github.io/). To learn more, you can also check out our [California Learning Lab project page](https://calearninglab.org/project/collaborative-design-of-interdisciplinary-inclusive-introductory-data-science-course-modules/). 
 
-I hope to branch out and gain research experience in software engineering and human-computer interaction, with a focus on building and improving tools for the CS classroom.
+Through graduate school, I am seeking to broaden my research experience to software engineering and human-computer interaction, with a focus on building and improving tools for the CS classroom.
