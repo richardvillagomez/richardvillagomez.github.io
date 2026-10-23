@@ -1,4 +1,4 @@
-I love teaching, so it's probably no surprise that my research interests also involve teaching. My goal is to design CS curriculum and study pedagogical approaches that expand access to computing for nontraditional and underrepresented students, fostering both deep conceptual understanding and a true sense of belonging. 
+I love teaching, so it's probably no surprise that my research interests also involve education. My goal is to design CS curriculum and study pedagogical approaches that expand access to computing for nontraditional and underrepresented students, fostering both deep conceptual understanding and a true sense of belonging. 
 
 As A.I. becomes increasingly integrated into programming workflows, I think the silver lining is that it brings an opportunity to shift our learning more on foundational computational literacy. I'm interested in finding ways to teach CS that promote conceptual understanding rather than surface-level tool use—I want to help students to understand _why_ and _how_ their code works. 
 
