@@ -1,6 +1,10 @@
 # build output
 dist/
 
+# Jupyter Book build output (built in CI and copied into public/CSE20)
+CSE20/_build/
+public/CSE20/
+
 # generated types
 .astro/
 

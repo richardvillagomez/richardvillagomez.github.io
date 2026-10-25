@@ -20,6 +20,19 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v7
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build CSE20 Jupyter Book
+        working-directory: CSE20
+        env:
+          BASE_URL: /CSE20
+        run: |
+          pip install "jupyter-book>=2,<3"
+          jupyter-book build --html
+          mkdir -p ../public/CSE20
+          cp -R _build/html/. ../public/CSE20/
       - name: Install, build, and upload your site
         uses: withastro/action@v6
         # with:

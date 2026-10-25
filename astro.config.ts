@@ -16,7 +16,24 @@ export default defineConfig({
 		build: {
 			assetsInlineLimit: 0,
 		},
-		plugins: [UnoCSS()],
+		plugins: [
+			UnoCSS(),
+			{
+				// The dev server doesn't map directories in public/ to their index.html
+				// the way GitHub Pages does, so the CSE20 Jupyter Book 404s locally without this.
+				name: "cse20-directory-index",
+				apply: "serve",
+				configureServer(server) {
+					server.middlewares.use((req, _res, next) => {
+						const [path, query] = (req.url ?? "").split("?");
+						if (/^\/CSE20(\/|$)/.test(path) && !/\.[^/]+$/.test(path)) {
+							req.url = `${path.replace(/\/?$/, "/")}index.html${query ? `?${query}` : ""}`;
+						}
+						next();
+					});
+				},
+			},
+		],
 	},
 	image: {
 		responsiveStyles: true,

@@ -2,6 +2,8 @@
 	"upstream": "jxpeng98/astro-theme-scholars",
 	"protected": [
 		".template-sync.json",
+		".github/workflows/deploy.yml",
+		"CSE20/**",
 		"site.config.ts",
 		"src/data/**",
 		"src/content/posts/**",
