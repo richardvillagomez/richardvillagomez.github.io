@@ -37,3 +37,6 @@ pnpm-debug.log*
 
 # vscode setting folder
 .vscode/settings.json
+
+# MyST build outputs
+_build
