@@ -60,7 +60,6 @@ I also organize as a proud member of UAW Local 4811, the union of 48,000 academi
 
 	navLinks: [
 		{ href: "/about", label: "about" },
-		{ href: "/researches", label: "research" },
 		{ href: "/teaching", label: "teaching" },
 	],
 	

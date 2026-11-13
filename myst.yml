@@ -677,11 +677,11 @@ project:
           children:
             - file: src/data/about.md
             - file: src/data/bio.md
-            - file: src/data/research.md
             - file: src/data/teaching.md
             - title: Old
               children:
                 - file: src/data/old/bio.md
+                - file: src/data/research.md
     
 site:
   template: book-theme
