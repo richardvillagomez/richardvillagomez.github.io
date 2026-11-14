@@ -678,6 +678,7 @@ project:
             - file: src/data/about.md
             - file: src/data/bio.md
             - file: src/data/teaching.md
+            - file: src/data/materials.md
             - title: Old
               children:
                 - file: src/data/old/bio.md

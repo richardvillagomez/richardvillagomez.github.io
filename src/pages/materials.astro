@@ -1,0 +1,14 @@
+---
+import MarkdownPage from "../components/MarkdownPage.astro";
+import { Content, getHeadings } from "../data/materials.md";
+import siteConfig from "../side.config";
+---
+
+<MarkdownPage
+  title={"materials"}
+  description={""}
+  headings={getHeadings()}
+  schemaType="CollectionPage"
+>
+  <Content />
+</MarkdownPage>

@@ -84,6 +84,7 @@ export interface SiteConfig {
 		researches: { title: string; description?: string };
 		teaching: { title: string; description?: string };
 		posts: { title: string; description?: string };
+		materials: { title: string; description?: string };
 	};
 	// --- Home Page Blocks ---
 	homeBlocks: {

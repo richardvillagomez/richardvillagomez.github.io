@@ -61,6 +61,7 @@ I also organize as a proud member of UAW Local 4811, the union of 48,000 academi
 	navLinks: [
 		{ href: "/about", label: "about" },
 		{ href: "/teaching", label: "teaching" },
+		{ href: "/materials", label: "materials" },
 	],
 	
 	socialLinks: [
@@ -104,6 +105,11 @@ I also organize as a proud member of UAW Local 4811, the union of 48,000 academi
 		posts: {
 			description:
 				"Fictional notes from the Mira Latticewell demo profile.",
+		},
+
+		materials: {
+
+
 		},
 	},
 
