@@ -1,5 +1,5 @@
 ## currently
-This fall, I am working as a head teaching assistant for [CSE 20: Beginning Programming in Python](https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-20). I'm excited to contribute to curriculum development and improvement, with the goal of teaching computational thinking in a way that is equitable and inclusive.
+This fall, I am working as a head teaching assistant for [CSE 20: Beginning Programming in Python](https://catalog.ucsc.edu/en/current/general-catalog/courses/cse-computer-science-and-engineering/lower-division/cse-20). One of my main projects is building out a new iteration of the [CSE 20 textbook](https://cse20-textbook.readthedocs.io/). 
 
 In addition, I am a lecturer for [CS4NorthCal](https://cose.sfsu.edu/cs4all/cs4northcal), a [NSF-IUSE](https://www.nsf.gov/funding/opportunities/iuse-edu-improving-undergraduate-stem-education-directorate-stem) project under the CS4All program that supports the learning of Computer Science courses for K-12 teachers. I've discovered that I love teaching teachers! I especially enjoy helping them see computer science as way more than just coding, and that the skills that you gain in learning CS are helpful in various parts of life, way beyond the IDE.
 

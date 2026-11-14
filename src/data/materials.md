@@ -2,7 +2,7 @@ Last updated: November 14. This page was inspired by [Peyrin Kao's Lecture Archi
 
 I make all my teaching materials public! You can access my teaching materials for the following classes:
 ## Data 8: Foundations of Data Science
-
+These materials are from when I last taught this class in [Summer 2026](https://data8.org/su26/).
 | Topic                                         | Materials                                                                                                      |
 | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | By the Numbers                                | [Slides](https://docs.google.com/presentation/d/1blb1bHExDTt3HVqVT88oHqTDKT8mAXQvdImUm2EhXz4/edit?usp=sharing) |
