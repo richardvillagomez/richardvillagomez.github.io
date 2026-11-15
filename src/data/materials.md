@@ -2,7 +2,7 @@ Last updated: November 14. This page was inspired by [Peyrin Kao's Lecture Archi
 
 I make all my teaching materials public! You can access my teaching materials for the following classes:
 ## CSE 20: Introduction to Programming in Python
-I am currently teaching this class!
+I am currently teaching this class! These materials are from my weekly discussion sections.
 | Topic        	| Materials                                                                                                                                         	|
 |--------------	|---------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Conditionals 	| [Slides](https://docs.google.com/presentation/d/1iqPcbV59kn5jx_kV0EnCw74ulbzexfJt/edit?usp=sharing&ouid=111154520459344234559&rtpof=true&sd=true) 	|
@@ -14,7 +14,7 @@ I am currently teaching this class!
 
 ---
 ## Data 8: Foundations of Data Science
-These materials are from when I last taught Data 8 in [Summer 2026](https://data8.org/su26/).
+These materials are from when I last taught Data 8 in [Summer 2026](https://data8.org/su26/). I also gave a lecture on Regression Inference, and included the materials below!
 | Topic                                         | Materials                                                                                                      |
 | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | By the Numbers                                | [Slides](https://docs.google.com/presentation/d/1blb1bHExDTt3HVqVT88oHqTDKT8mAXQvdImUm2EhXz4/edit?usp=sharing) |
@@ -30,6 +30,7 @@ These materials are from when I last taught Data 8 in [Summer 2026](https://data
 | Central Limit Theorem & Correlation           | [Slides](https://docs.google.com/presentation/d/1IRekGoZedkm0z_79zriXNCiWKzs1gbYbvvVRq18_Nng/edit?usp=sharing) |
 | Linear Regression                             | [Slides](https://docs.google.com/presentation/d/1EzGcMFhgB4Jw4KcNtCyJoK9hmr4C8vo4zJdiKicNWYw/edit?usp=sharing) |
 | Residuals                                     | [Slides](https://docs.google.com/presentation/d/1cRlPsyyqPshc4FK9BdQ0FIBk5h1ryag_ydB06x_rv80/edit?usp=sharing) |
+| Lecture: Regression Inference                 | [Slides](https://docs.google.com/presentation/d/1pBxpRysw-demdbTu5fOGA0AejAFpkJqGbdgBcqbtq2U/edit?usp=sharing), [Jupyter Notebook](https://github.com/data-8/materials-su26/blob/main/lec/lec30/lec30.ipynb) |
 | Prediction Intervals, k-NN                    | [Slides](https://docs.google.com/presentation/d/1782xf25sqvPfNPIOtkllP_eSobuPC1g3j3_dPRUECp0/edit?usp=sharing) |
 | Wrapping Up                                   | [Slides](https://docs.google.com/presentation/d/1ZOmi1R_XtxiCNQFt8uT81GTpPf9qwUUcTmJVP87QLpc/edit?usp=sharing) |
 ---
