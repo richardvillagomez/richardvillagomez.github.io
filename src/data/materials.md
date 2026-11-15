@@ -1,6 +1,18 @@
 Last updated: November 14. This page was inspired by [Peyrin Kao's Lecture Archive](https://peyrin.github.io/lecturing.html).
 
 I make all my teaching materials public! You can access my teaching materials for the following classes:
+## CSE 20: Introduction to Programming in Python
+I am currently teaching this class!
+| Topic        	| Materials                                                                                                                                         	|
+|--------------	|---------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Conditionals 	| [Slides](https://docs.google.com/presentation/d/1iqPcbV59kn5jx_kV0EnCw74ulbzexfJt/edit?usp=sharing&ouid=111154520459344234559&rtpof=true&sd=true) 	|
+| Loops        	| [Slides](https://docs.google.com/presentation/d/1H9xzbucHNENrVyefDrAT2t8XS2P06TgS/edit?usp=sharing&ouid=111154520459344234559&rtpof=true&sd=true) 	|
+| Functions    	| [Slides](https://docs.google.com/presentation/d/1NWn2jJ86YmmJX868L15zLkoQhzP8QwHF/edit?usp=sharing&ouid=111154520459344234559&rtpof=true&sd=true) 	|
+| Strings      	| [Slides](https://docs.google.com/presentation/d/1D2ruutM5TsuSJaNdX9bQjpns9Ixg8l74/edit?usp=sharing&ouid=111154520459344234559&rtpof=true&sd=true) 	|
+| Lists        	| [Slides](https://docs.google.com/presentation/d/1gm2kUf29lM3GHZ9IXSvGH1PXcWigWPqR/edit?usp=sharing&ouid=111154520459344234559&rtpof=true&sd=true) 	|
+| Dictionaries 	| [Slides](https://docs.google.com/presentation/d/10U07G1L1nqkcJ6RdM6iYv_qxpCVjqW5f/edit?usp=sharing&ouid=111154520459344234559&rtpof=true&sd=true) 	|
+
+---
 ## Data 8: Foundations of Data Science
 These materials are from when I last taught Data 8 in [Summer 2026](https://data8.org/su26/).
 | Topic                                         | Materials                                                                                                      |
